@@ -1,12 +1,12 @@
 {
   "profile": {
-    "name": "اسمك هنا",
-    "title": "مسمّاك المهني (مثال: مطوّر واجهات أمامية)",
-    "bio": "اكتب هنا نبذة قصيرة عنك، من أنت وماذا تعمل وماذا تحب أن تبني.",
+    "name": "Zein Husein",
+    "title": "Software Engineer | IT Student | Web Developer | AI learner",
+    "bio": "I'm a Software Engineer and IT student, working as a Web Developer. I have a strong passion for technology and continuous learning, and I'm currently learning Artificial Intelligence (AI) to expand my skills. My goal is to combine my web development experience with AI technologies to build innovative software solutions.",
+    "avatar": "",
     "email": "",
     "github": "",
-    "linkedin": "",
-    "avatar": ""
+    "linkedin": ""
   },
   "projects": []
 }
